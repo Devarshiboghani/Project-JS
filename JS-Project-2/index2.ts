@@ -23,7 +23,7 @@ console.log("Factorial of " + num2 + " is " + fact);
 
 
 // Program 3: Armstrong number list
-let limit: number = 500;       // given limit
+let limit: number = 500;      
 let num3: number = 1;
 
 do {
@@ -44,10 +44,10 @@ do {
 
 
 // Program 4: Palindrome number list
-let n2: number = 200;   // given limit
+let limit1: number = 200;   
 let num4: number = 1;
 
-while (num4 <= n2) {
+while (num4 <= limit1) {
     let temp: number = num4;
     let rev: number = 0;
 
@@ -123,7 +123,6 @@ for(let i5: number = 1; i5 <= 10; i5++) {
         output1 = output1 + "-";   // Add hyphen if it's not the last number
     }
 }
-
 console.log(output1);
 
 
@@ -147,7 +146,7 @@ console.log(output2);
 
 
 // Program 10: display below pattern using nested for loop
-let n4: number = 5;      //Maximum number
+let n4: number = 5;     
 
 for (let i7: number = 1; i7 <= n4; i7++) {
 
@@ -161,8 +160,8 @@ for (let i7: number = 1; i7 <= n4; i7++) {
 
 
 // Program 11: display below pattern using nested for loop
-let rows: number = 5;     // Total rows
-let num5: number = 1;     // Start number
+let rows: number = 5;     
+let num5: number = 1;     
 
 for (let i8: number = 1; i8 <= 5; i8++) {
 

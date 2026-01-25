@@ -15,7 +15,7 @@ while (i2 <= num2) {
 }
 console.log("Factorial of " + num2 + " is " + fact);
 // Program 3: Armstrong number list
-var limit = 500; // given limit
+var limit = 500;
 var num3 = 1;
 do {
     var temp = num3;
@@ -31,9 +31,9 @@ do {
     num3++;
 } while (num3 <= limit);
 // Program 4: Palindrome number list
-var n2 = 200; // given limit
+var limit1 = 200;
 var num4 = 1;
-while (num4 <= n2) {
+while (num4 <= limit1) {
     var temp = num4;
     var rev = 0;
     while (temp > 0) {
@@ -106,7 +106,7 @@ for (var i6 = 1; i6 <= 10; i6++) {
 output2 = output2 + " = " + sum2; // Add the total sum at the end
 console.log(output2);
 // Program 10: display below pattern using nested for loop
-var n4 = 5; //Maximum number
+var n4 = 5;
 for (var i7 = 1; i7 <= n4; i7++) {
     var row = "";
     for (var j1 = n4; j1 > n4 - i7; j1--) {
@@ -115,8 +115,8 @@ for (var i7 = 1; i7 <= n4; i7++) {
     console.log(row);
 }
 // Program 11: display below pattern using nested for loop
-var rows = 5; // Total rows
-var num5 = 1; // Start number
+var rows = 5;
+var num5 = 1;
 for (var i8 = 1; i8 <= 5; i8++) {
     var ro = "";
     for (var j2 = 1; j2 <= i8; j2++) {
