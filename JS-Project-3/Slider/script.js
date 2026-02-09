@@ -6,16 +6,10 @@ let images = [
     path: "https://w0.peakpx.com/wallpaper/125/944/HD-wallpaper-lotus-flower-amazing-flower-lotus-lake.jpg" 
   },
   { 
-    path: "https://wallpapers.com/images/hd/tulip-flower-garden-hd-iv7fy9kqniv1dhv4.jpg" 
-  },
-  { 
     path: "https://png.pngtree.com/background/20250126/original/pngtree-colorful-flowers-in-a-field-wallpaper-picture-image_15591250.jpg" 
   },
   { 
     path: "https://www.pixelstalk.net/wp-content/uploads/images9/Summer-flowers-wallpaper-for-desktop.jpg" 
-  },
-  { 
-    path: "https://images7.alphacoders.com/679/thumb-1920-679746.jpg" 
   },
   { 
     path: "https://img.freepik.com/premium-photo/blue-flower-with-word-wild-background_1236927-11149.jpg"
