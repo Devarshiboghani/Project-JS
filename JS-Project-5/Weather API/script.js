@@ -32,7 +32,7 @@ function setBackground(weather) {
             body.style.background = "linear-gradient(135deg, #ff9a3c, #ff6a00)"; // Default
     }
 
-    // optional: smooth transition
+    // smooth transition
     body.style.transition = "background 1s ease";
 }
 
